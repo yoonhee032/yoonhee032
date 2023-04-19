@@ -17,9 +17,5 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonhee032&show_icons=true&theme=tokyonight)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhee032&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonhee032&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonhee032&layout=compact&theme=tokyonight)
 </div>
